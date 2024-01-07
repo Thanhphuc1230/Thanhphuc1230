@@ -1,4 +1,6 @@
 
+Welcome, you've arrived at my GitHub! 👋
+Explore the creative space and source code of Dao Thanh Phuc. 🚀 Discover interesting projects and contribute your feedback!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daothanhphuc/) 
 
